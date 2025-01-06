@@ -1,0 +1,4 @@
+provider: github
+owner: Manojchinnaiyan
+repo: demoelectron
+updaterCacheDirName: my-app-updater
