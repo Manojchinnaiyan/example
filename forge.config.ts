@@ -55,7 +55,7 @@ const config: ForgeConfig = {
     new PublisherGithub({
       repository: {
         owner: "Manojchinnaiyan",
-        name: "demoelectron",
+        name: "example",
       },
       prerelease: false,
       draft: false,

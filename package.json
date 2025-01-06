@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Manojchinnaiyan/demoelectron.git"
+    "url": " https://github.com/Manojchinnaiyan/example.git"
   },
   "publish": [
     {
       "provider": "github",
       "owner": "Manojchinnaiyan",
-      "repo": "demoelectron"
+      "repo": "example"
     }
   ],
   "devDependencies": {
