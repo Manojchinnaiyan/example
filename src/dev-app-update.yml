@@ -1,4 +1,4 @@
 provider: github
 owner: Manojchinnaiyan
-repo: demoelectron
+repo: example
 updaterCacheDirName: my-app-updater

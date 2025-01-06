@@ -41,6 +41,7 @@ const config: ForgeConfig = {
       language: 1033, // English
       manufacturer: "Your Company Name",
       name: pkg.productName || pkg.name,
+      icon: "C:/Users/COSgrid/electron-vpnapp/assets/blackbg.ico",
       upgradeCode: "9eaf22dc-4995-42b8-81c8-98ed0d1e0b97", // Generate using [guid]::NewGuid()
       ui: {
         chooseDirectory: true,
